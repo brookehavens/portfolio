@@ -12,11 +12,20 @@ p {
     float: left;
     list-style: none;
     padding: 2vw;
-    font-size: 1.5vw;
+    font-size: 1.3vw;
 }
 
 h1.title {
   margin: 8vw;
-  font-size: 7vw;
+  font-size: 6vw;
   vertical-align: middle;
+}
+
+Body {
+  background-image: url("../img/background.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #fff;
 }
